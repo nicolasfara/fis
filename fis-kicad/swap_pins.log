@@ -1,0 +1,5 @@
+01-14 13:56:24 swap_pins.action_swap_pins 87:Plugin executed on: 'linux'
+01-14 13:56:24 swap_pins.action_swap_pins 88:Plugin executed with python version: '3.9.1 (default, Dec 13 2020, 11:55:53) \n[GCC 10.2.0]'
+01-14 13:56:24 swap_pins.action_swap_pins 89:KiCad build version: 5.1.9
+01-14 13:56:24 swap_pins.action_swap_pins 90:Swap pins plugin version: 15 started
+01-14 13:56:31 swap_pins.action_swap_pins 118:Action plugin canceled. More or less than 2 pads selected.
