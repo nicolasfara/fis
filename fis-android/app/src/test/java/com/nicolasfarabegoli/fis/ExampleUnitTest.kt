@@ -1,4 +1,4 @@
-package unibo.nf
+package com.nicolasfarabegoli.fis
 
 import org.junit.Test
 
